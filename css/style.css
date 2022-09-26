@@ -1,0 +1,32 @@
+.container{
+    padding-top: 40px;
+}
+
+
+.card{
+    border: 1px solid white;
+    background-color: blue;
+    color: white;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.nested-card{
+    border: 1px solid white;
+    background-color: blue;
+    color: white;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+
+.row-nested{
+    padding: 5px;
+}
+
+
+.nested-card-xs{
+    background-color: lime;
+
+}
